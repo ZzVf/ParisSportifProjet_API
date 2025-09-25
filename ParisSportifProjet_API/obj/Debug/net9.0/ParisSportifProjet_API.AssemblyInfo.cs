@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParisSportifProjet_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6b014e9c86d865e1b65ba0d9bd0050d240d33b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e7b3cf476e2a6db053a216d38caac46003656f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParisSportifProjet_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParisSportifProjet_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
