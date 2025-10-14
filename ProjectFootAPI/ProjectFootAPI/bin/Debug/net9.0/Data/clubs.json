@@ -1,0 +1,4 @@
+[
+  { "Id": 1, "Name": "PSG", "Logo": "psg.png", "Ranking": 1, "LigueId": 1 },
+  { "Id": 2, "Name": "OM", "Logo": "om.png", "Ranking": 2, "LigueId": 1 }
+]

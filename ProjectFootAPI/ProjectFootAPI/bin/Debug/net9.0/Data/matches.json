@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "ClubId1": 1,
+    "ClubId2": 2,
+    "MatchDateTime": "2025-10-01T20:45:00",
+    "Score1": 2,
+    "Score2": 1,
+    "isTopMatch": true,
+    "isCanceled": false
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lucas Martin",
+    "Password": "Lm@2025",
+    "CreationDate": "2025-03-10T14:32:00",
+    "Points": 720,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 2,
+    "Name": "Emma Dubois",
+    "Password": "EmD!pass",
+    "CreationDate": "2025-01-28T09:15:00",
+    "Points": 500,
+    "isBlocked": false,
+    "isAdmin": true,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 3,
+    "Name": "Nathan Leroy",
+    "Password": "Nath123!",
+    "CreationDate": "2025-04-05T17:40:00",
+    "Points": 300,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 4,
+    "Name": "Léa Fontaine",
+    "Password": "LeaF@2025",
+    "CreationDate": "2025-02-14T08:00:00",
+    "Points": 910,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 5,
+    "Name": "Alexandre Petit",
+    "Password": "AlxP#001",
+    "CreationDate": "2025-05-20T20:10:00",
+    "Points": 1200,
+    "isBlocked": false,
+    "isAdmin": true,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 6,
+    "Name": "Manon Lefèvre",
+    "Password": "Mlfv$2025",
+    "CreationDate": "2025-06-03T10:12:00",
+    "Points": 480,
+    "isBlocked": true,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 7,
+    "Name": "Thomas Bernard",
+    "Password": "Tbern!89",
+    "CreationDate": "2025-07-12T22:45:00",
+    "Points": 650,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 8,
+    "Name": "Julie Robert",
+    "Password": "Jrob@123",
+    "CreationDate": "2025-03-03T11:25:00",
+    "Points": 520,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 9,
+    "Name": "Gabriel Caron",
+    "Password": "Gcar0n!",
+    "CreationDate": "2025-08-19T16:05:00",
+    "Points": 880,
+    "isBlocked": false,
+    "isAdmin": false,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  },
+  {
+    "Id": 10,
+    "Name": "Chloé Laurent",
+    "Password": "Chloe@Secure",
+    "CreationDate": "2025-09-27T09:55:00",
+    "Points": 740,
+    "isBlocked": false,
+    "isAdmin": true,
+    "FavoriteClubs": [],
+    "FavoriteLigues": [],
+    "Bets": []
+  }
+]
